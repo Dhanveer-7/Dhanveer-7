@@ -1,9 +1,15 @@
-# 🚀 Hi, I'm Dhanveer M
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=250&section=header&text=Dhanveer%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-### Aspiring Java Developer | AI & Data Science Enthusiast | CSE Student @ Panimalar Engineering College
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=🚀+Hi%2C+I'm+Dhanveer+M;Aspiring+Java+Developer;AI+%26+Data+Science+Enthusiast;Problem+Solver+%7C+Tech+Explorer;CSE+Student+%40+Panimalar+Engineering+College" alt="Typing SVG" />
+</h1>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhanveer-7&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 ---
-
 ## 👨‍💻 About Me
 
 ```java
