@@ -324,7 +324,7 @@ Participated with Team Tech Dynamos’26 and built Neuro Compiler — a GUI-Base
 
 # 🌐 Portfolio Website
 
-Coming Soon 🚀
+https://dhanveer-7.github.io/dhanveer-portfolio/
 
 ---
 
